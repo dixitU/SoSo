@@ -1,0 +1,9 @@
+{
+  "expoServerNgrokUrl": "https://jf-nf5.anonymous.mydb.exp.direct",
+  "packagerNgrokUrl": "https://packager.jf-nf5.anonymous.mydb.exp.direct",
+  "ngrokPid": 4536,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 1948
+}
